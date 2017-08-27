@@ -61,7 +61,7 @@ pauseOnCAIterations = false; % Wait for key stroke or user input after every ite
 ```
 virusFlags.plotImagesWithParts = false; % Should the images be displayed with or without PSE particles
 ```
-*Choose whether to apply advection. Advection: true - apply flow, flase - don't:*
+*Choose whether to apply advection. Advection: true - apply flow, false - don't:*
 ```
 virusFlags.isAdvectionEnabled = false; % advection: true - apply flow, flase - don't
 ```
